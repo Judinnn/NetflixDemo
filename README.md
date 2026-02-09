@@ -36,7 +36,7 @@ Server starts at:
 
 http://localhost:7070
 
- POST http://localhost:7070/api/movies
+ POST http://localhost:7070/api/movies in POSTMAN
 
 {
   "name": "Inception",
@@ -44,4 +44,4 @@ http://localhost:7070
   "genre": "Sci-Fi"
 }
 
-GET http://localhost:7070/api/movies/1
+GET http://localhost:7070/api/movies/1( if  id change  to 2 another movie appears)
