@@ -34,7 +34,7 @@ Run the Spring Boot application
 
 Server starts at:
 
-http://localhost:8080
+http://localhost:7070
 
  POST http://localhost:7070/api/movies
 
